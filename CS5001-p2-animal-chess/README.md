@@ -1,5 +1,7 @@
 # README
 
+Score: 18/20
+
 Report for CS5001 Practice 2
 
 Matriculation number of author: **[210016568](mailto:zg34@st-andrews.ac.uk)**
