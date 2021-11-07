@@ -1,0 +1,34 @@
+Tests
+
+- All public Tests pass.
+- 2 out of 5 private Tests pass.
+
+Functionality
+
+- Most methods and functionality was successfully implemented.
+- Creating players should only allow 0 or 1 to be passed as arguments and should throw an IllegalArgumentException if anything else is passed which it does not.
+- Fails a private test where the test tries to access WIDTH and HEIGHT from the GAME instance however these are set to private. Static final variables do not need to be private as they are static
+and final and there is no danger of memory hazard. Additionally, you have set those with small letters. Static final variables should be set with all capitals as specified in the UML diagram too.
+- Fails a piece test trying to move to a square and capture piece.
+- Fails test because the board reaches out of bounds. Seems your initialisation of the board in the GAME class is buggy.
+
+Program Design
+
+- Very good OO design, followed UML diagram for the most of the solution.
+- Override methods for specified methods were successfully implemented.
+- Very good method decomposition with no code duplication.
+
+Code
+
+- Meaningful Javadoc comments were used.
+- Method comments are of very good quantity and meaningful improving code readability.
+- Good method decomposition and OO approach.
+
+Comments
+
+- A GUI was implemented although not really interactive as all ActionListeners are empty. Half a mark awarded.
+- Additional basic tests were developed. Half a mark awarded.
+
+Grading
+
+- All basic tests passing, with GOOD code style and doc.  Almost all private tests passing.
