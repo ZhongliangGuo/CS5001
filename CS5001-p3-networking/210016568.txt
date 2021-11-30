@@ -1,0 +1,36 @@
+# Tests
+-------
+- All except two tests pass, good job!
+- One test fails due to the incorrect content of the image being received. This could be due to sending binary data as text or if the server fails to include \r\n separators between response header and content.
+- One test fails due to incorrect content lenght being sent for the image.
+
+
+# Functionality
+---------------
+- Basic: GET and HEAD requests implemented, html documents are served and 404 errors are shown correctly.
+- Advanced: The server can return binary files and implements multithreading as well as logging.
+
+
+# Program Design
+----------------
+- Logic is very well decomposed into multiple methods, thats great.
+- Good Object Orientation with splits into sensible classes.
+
+
+# Code quality
+--------------
+- Javadoc is used extensively.
+- Lots of inline comments.
+
+
+# General comments
+------------------
+- Please do not submit .class files.
+- Multithreading implementation is very basic, consider using advanced stuff such as fixed size thread pools etc..
+
+
+# Grading
+---------
+- Evidence of very well implemented basic requirements and three enhancements.
+
+
