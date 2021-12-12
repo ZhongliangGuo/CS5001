@@ -18,7 +18,7 @@ This project use the Model–View–Controller (MVC) design pattern.
 
 For basic requirements, I implemented all. I used a gif to show how is it gong.
 
-![image](readme sources/presentation.gif)
+![image](https://github.com/ZhongliangGuo/CS5001/blob/main/CS5001-p4-vector-drawing/readme%20sources/presentation.gif)
 
 ## Advanced Requirements
 
@@ -36,19 +36,19 @@ I added triangle shape.
 
 here I put a file named `example.ser` to show how to reload a file from disk.
 
-![images](readme sources/readfile.gif)
+![images](https://github.com/ZhongliangGuo/CS5001/blob/main/CS5001-p4-vector-drawing/readme%20sources/readfile.gif)
 
 #### Save File
 
 I present the process how to use this tool to store the vector drawing as a file.
 
-![images](readme sources/savefile.gif)
+![images](https://github.com/ZhongliangGuo/CS5001/blob/main/CS5001-p4-vector-drawing/readme%20sources/savefile.gif)
 
 ## JUnit
 
 For the `JUnit`, I passed all the test I designed before. showed in image.
 
-![images](readme sources/tests.png)
+![images](https://github.com/ZhongliangGuo/CS5001/blob/main/CS5001-p4-vector-drawing/readme%20sources/tests.png)
 
 ### `testAddVector()`
 
