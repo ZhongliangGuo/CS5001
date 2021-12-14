@@ -1,0 +1,34 @@
+Functionality
+- Draws straight lines
+- Draws rectangles
+- Draws ellipses
+- Draws diagonal crosses
+- Undo works as expected
+- Redo works as expected
+- Can select different colours.
+
+- Draws square and circles
+- Draws triangles
+- Can save/Load drawings
+
+Program Design
+- MVC implemented poorly - the view shouldn't be used by the model.
+- Very limited OOP
+- Used swing, nicely done.
+
+Code quality
+- You’ve made good use of javadocs which improves readability
+- Some comments, nicely done.
+- Sensible variable names
+- Sensible data types
+- Sensible indentation
+
+Junit tests
+- Some junit tests, nicely done
+
+General comments
+- The gifs in the readme did not render.
+- Otherwise good readme.
+
+Grading
+- All basic requirements fulfilled, with two and a partial advanced requirement. Poor MVC, limited OOP. 
